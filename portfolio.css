@@ -1,0 +1,207 @@
+.m{
+    font-size: larger;
+    margin:40px 20px 20px 40px;
+    padding-left: 900px;
+    color:black;
+}
+.black{
+    font-size: larger;
+    color: white;
+    background-color: black;
+    padding-left: 400px;
+}
+.img{
+    /* border-width: 50px;  */
+    position: absolute;
+    /* bottom:5%; */
+    margin: 100px 50px 50px 100px; 
+    border-radius:50%; 
+    width:300px;
+    /* height:300px; */
+}
+.imgr{
+    position :absolute;
+    margin: 500px 100px 100px 500px;
+    bottom:30%;
+}
+.imgr1{
+    position :absolute;
+    margin: 500px 100px 75px 500px;
+    bottom:25%;
+}
+.imgr2{
+    position :absolute;
+    margin: 500px 100px 30px 500px;
+    bottom:22%;
+}
+.imgr3{
+    position :absolute;
+    margin: 500px 100px 30px 500px;
+    bottom:17%;
+    border-radius: 50%;
+    font-size:20px;
+     
+}
+#btn{
+    cursor: pointer;
+}
+#btn1{
+    cursor: pointer;
+    color: white;
+    background-color: red;
+}
+#sec1{
+    margin-top: 35%;
+    height:400px;
+    background-color:black;
+}
+#po{
+    font-size: 35px;
+    color:white;
+    position: absolute;
+    margin-top: 20px;
+    margin: 50px 10px 40px 10px;
+}
+#po1{
+    color:white;
+    font-size: medium;
+    position: absolute;
+    margin-top: 20px;
+    margin: 100px 10px 30px 10px;
+}
+#te{
+    font-size: 25px;
+    text-align: center;
+}
+#pa{
+    font-size:17px;
+}
+.project{
+     display:flex;
+     text-align: center;
+     width:auto;
+     box-sizing: border-box;
+     margin:5px;
+     margin-bottom: 50px;
+     width:300px;
+}
+.port0{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+}
+.port1{
+        border-radius: 10px;
+        margin-bottom: 5%;
+        margin-left: 2%;
+        margin-right: 5%;
+        margin-top: 14%;
+        padding: 20px 12px;
+        box-sizing: border-box;
+        background-color: white;
+}
+#sec2{
+    margin-top: 5%;
+    height:200px;
+    background-color:white;
+    color:white;
+}
+.port4{
+        padding: 20px 12px;
+        box-sizing: border-box;
+        background-color: rgb(230, 44, 44);
+        height: 24px;
+        width:20%
+}
+.secp1{
+    font-family: sans-serif;
+    list-style: none;
+    padding:0;
+}
+.skills{
+    position: absolute;
+    display: flex;
+}
+.bar{
+    display: block;
+    margin-bottom: 20px;
+    /* margin-left: 0px; */
+    height: 2px;
+    width:100px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius:3px;
+}
+.bar span{
+    margin-bottom: 20px;
+    height:2px;
+    float: left;
+    background-color: rgb(76, 0, 255);
+}
+.html{
+    width:90%;
+}
+.css{
+    width:50%
+}
+.c{
+    width:90%;
+}
+.java{
+    width:70%;
+}
+.tamil{
+    width:90px;
+}
+.english{
+    width:70px;
+}
+#la{
+    position: absolute;
+    margin-left:600px;
+    font-size: 20px;
+    color: black;
+}
+#l0{
+    margin-top: 50px;
+    margin-left: 200px;
+    color:black;
+}
+#l2{
+    position: absolute;
+    margin-top: 55px;
+    margin-left:900px;
+    color: black;
+}
+#sec3{
+    margin-top: 13%;
+    height:300px;
+    background-color:black;
+}
+.con{
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 600px;
+    color: white;
+    font-size: 30px;
+}
+.gp{
+    position : absolute;
+    margin-top:3px;
+    /* margin-left: 1px; */
+}
+.dp{
+    position : absolute;
+    margin-top:45px;
+}
+.km{
+    position : absolute;
+    margin-top:10px;
+}
+.ga{
+    position : absolute;
+    background-color: red;
+    color:white;
+    border-radius: 25px;
+    width:150px;
+    margin-top:60px;
+}
